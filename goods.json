@@ -1,0 +1,16 @@
+{
+    "goods": [
+        { "price": "69.9", "title": "篮球", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg" },
+        { "price": "63", "title": "小米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "29.9", "title": "大米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "69.9", "title": "篮球", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg" },
+        { "price": "63", "title": "小米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "29.9", "title": "大米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "69.9", "title": "篮球", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg" },
+        { "price": "63", "title": "小米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "29.9", "title": "大米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "69.9", "title": "篮球", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg" },
+        { "price": "63", "title": "小米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"},
+        { "price": "29.9", "title": "大米", "img": "http://127.0.0.1/zzk_d/src/assets/image/kobe.jpg"}
+    ]
+}
